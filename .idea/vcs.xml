@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hadoop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hadoop---spark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kid/Hungry.py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kid/hungry11.py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kid/kid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-repos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test123" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tested-repos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testing1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testing1/pet.py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/text/babu.py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tusk" vcs="Git" />
+  </component>
+</project>
